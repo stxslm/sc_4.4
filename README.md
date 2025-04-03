@@ -1,5 +1,5 @@
-# musicPlayer
 网页音乐播放器
+https://stxslm.github.io/sc_4.4/
 ### Audio对象
 * 主要属性：
   * autoplay -> 在就绪（加载完成）后随即播放音频
